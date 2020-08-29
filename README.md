@@ -6,8 +6,8 @@ To propose a new feature or participate in discussion of other feature request [
 
 ## Resources
 
-- **[General discussion](https://github.com/foo-software/discussion/issues)**: Anything goes here. Not sure where to discuss a topic... this is the place.
-- **[Incidents](https://github.com/foo-software/incidents/issues)**: Real-time updates of any incidents. We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here.
+- **[General discussion](https://github.com/foo-software/discussion/issues)**: Anything goes here. Not sure where to discuss a topic? this is the place.
+- **[Incidents](https://github.com/foo-software/incidents/issues)**: We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here. Updates are provided in real-time.
   - [Open incidents](https://github.com/foo-software/incidents/issues)
   - [Closed incidents](https://github.com/foo-software/incidents/issues?q=is%3Aissue+is%3Aclosed)
 - **[Bugs](https://github.com/foo-software/bugs/issues)**: Did you discover a bug? Open an issue here or review existing ones.
