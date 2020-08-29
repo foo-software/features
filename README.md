@@ -2,7 +2,7 @@
 
 This is a space to propose and discuss features for [www.foo.software](www.foo.software) and related services.
 
-To propose a new feature or participate in discussion of other feature request [open an issue here](https://github.com/foo-software/bugs/issues).
+To propose a new feature or participate in discussion of other feature request [open an issue here](https://github.com/foo-software/features/issues).
 
 ## Credits
 
