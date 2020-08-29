@@ -1,4 +1,4 @@
-# Foo: Bugs
+# Foo: Features
 
 This is a space to propose and discuss features for [www.foo.software](www.foo.software) and related services.
 
